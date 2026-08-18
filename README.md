@@ -7,7 +7,8 @@
 
 ### Requirements
 
-- Android NDK
+- Node 24 (see [`.nvmrc`](.nvmrc))
+- Android NDK (CI uses version 27.2.12479018)
   - (optional) exported `ANDROID_NDK_HOME` environment variable
 
 ### General steps
